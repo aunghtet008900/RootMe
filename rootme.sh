@@ -66,12 +66,12 @@ echo "  \___/ \___/| .__/|___/ "
 echo "             | |         "
 echo "             |_|         "
 echo  
-echo "      unexpected error occured choose right one to install or tryagain "
+echo "unexpected error occured choose right one to install or tryagain "
 exit
 fi
 echo
 echo "Root credits to Anlinux"
-echo "script by Ajay"
+echo "Tool created by Ajay"
 echo
 echo
 echo "contact me on :"
