@@ -49,14 +49,14 @@ if [ "$choice" = "1" ];
 then
 echo " bash /data/data/com.termux/files/usr/etc/Root/start-kali.sh " >> /data/data/com.termux/files/usr/etc/bash.bashrc
 echo
-echo " Restart your termux to become root user "
+echo "Restart your termux to become root user "
 elif [ "$choice" = "2" ];
 then
 echo " alias rootme='bash /data/data/com.termux/files/usr/etc/Root/start-kali.sh' " >> /data/data/com.termux/files/usr/etc/bash.bashrc
 cd /data/data/com.termux/files/usr/etc
 source bash.bashrc
 echo 
-echo " Restart your termux and type  rootme  from anywhere of your termux to become root user "
+echo "Restart your termux and type  rootme  from anywhere of your termux to become root user "
 else
 echo                                             
 echo "   ___   ___  _ __  ___  "
@@ -66,7 +66,7 @@ echo "  \___/ \___/| .__/|___/ "
 echo "             | |         "
 echo "             |_|         "
 echo  
-echo "  unexpected error occured choose right one to install or tryagain "
+echo "      unexpected error occured choose right one to install or tryagain "
 exit
 fi
 echo
@@ -77,7 +77,7 @@ echo
 echo "contact me on :"
 echo "Telegram  : Tamilhackz ( public group )"
 echo "Instagram : tamilhackz_ "
-echo
+echo "Twitter   : TamilHackz "
 echo
 echo "Youtube : Tamilhackz "
 echo "https://www.youtube.com/channel/UC4BpyO4AIcynKhBj4PLnvsA "
