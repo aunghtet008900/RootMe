@@ -28,7 +28,7 @@ echo "Does it hard to choose just watch this video Before use"
 echo "Tamil     ( comming soon )                "
 echo "English   ( comming soon )            "
 echo     
-echo "Version 2.0"
+echo "Version 1.1"
 
 read -p "Enter your choice : " choice
 apt update && apt upgrade -y
