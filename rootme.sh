@@ -19,13 +19,17 @@ echo "                |______\_/ |_|_|      "
 echo                                                        
 read -p "Use this tool for educational purpose only press enter to continue " Enter
 echo
+clear
+echo
 echo "   1. Boot2Root    "
 echo "   2. JustRoot     "
 echo
 echo "Does it hard to choose just watch this video Before use"
 echo "Tamil     ( comming soon )                "
 echo "English   ( comming soon )            "
-echo            
+echo     
+echo "Version 2.0"
+
 read -p "Enter your choice : " choice
 apt update && apt upgrade -y
 apt install wget -y
