@@ -7,29 +7,56 @@ no need to manually become root which is autoamted to become root
 
 Boot2Root
 
- ██▀███   ▒█████   ▒█████  ▄▄▄█████▓ ███▄ ▄███▓▓█████ 
-▓██ ▒ ██▒▒██▒  ██▒▒██▒  ██▒▓  ██▒ ▓▒▓██▒▀█▀ ██▒▓█   ▀ 
-▓██ ░▄█ ▒▒██░  ██▒▒██░  ██▒▒ ▓██░ ▒░▓██    ▓██░▒███   
-▒██▀▀█▄  ▒██   ██░▒██   ██░░ ▓██▓ ░ ▒██    ▒██ ▒▓█  ▄ 
-░██▓ ▒██▒░ ████▓▒░░ ████▓▒░  ▒██▒ ░ ▒██▒   ░██▒░▒████▒
-░ ▒▓ ░▒▓░░ ▒░▒░▒░ ░ ▒░▒░▒░   ▒ ░░   ░ ▒░   ░  ░░░ ▒░ ░
-  ░▒ ░ ▒░  ░ ▒ ▒░   ░ ▒ ▒░     ░    ░  ░      ░ ░ ░  ░
-  ░░   ░ ░ ░ ░ ▒  ░ ░ ░ ▒    ░      ░      ░      ░   
-   ░         ░ ░      ░ ░                  ░      ░  ░
-                                                      
-usage 
-step1:- Git clone https://github.com/TamilHackz/RootMe.git
-step2:- cd RootMe 
-step3:- chmod 777 rootme.sh
-step4:- bash rootme.sh
-step5:- choose your type of install
+   
 
-       1. Boot2Root
-       2. JustRoot
+        ██████╗  ██████╗  ██████╗ ████████╗ ██████╗  ██████╗  ██████╗  ██████╗ ████████╗
+        ██╔══██╗██╔═══██╗██╔═══██╗╚══██╔══╝ ╚════██╗ ██╔══██╗██╔═══██╗██╔═══██╗╚══██╔══╝
+        ██████╔╝██║   ██║██║   ██║   ██║     █████╔╝ ██████╔╝██║   ██║██║   ██║   ██║   
+        ██╔══██╗██║   ██║██║   ██║   ██║    ██╔═══╝  ██╔══██╗██║   ██║██║   ██║   ██║   
+        ██████╔╝╚██████╔╝╚██████╔╝   ██║    ███████╗ ██║  ██║╚██████╔╝╚██████╔╝   ██║   
+        ╚═════╝  ╚═════╝  ╚═════╝    ╚═╝    ╚══════╝ ╚═╝  ╚═╝ ╚═════╝  ╚═════╝    ╚═╝   
+                                                                              
+           
+           
+           
+           
+ justroot                                                                             
+                                                                              
+                                                                              
+
+
+         ██╗██╗   ██╗███████╗████████╗    ██████╗  ██████╗  ██████╗ ████████╗
+         ██║██║   ██║██╔════╝╚══██╔══╝    ██╔══██╗██╔═══██╗██╔═══██╗╚══██╔══╝
+         ██║██║   ██║███████╗   ██║       ██████╔╝██║   ██║██║   ██║   ██║   
+    ██   ██║██║   ██║╚════██║   ██║       ██╔══██╗██║   ██║██║   ██║   ██║   
+    ╚█████╔╝╚██████╔╝███████║   ██║       ██║  ██║╚██████╔╝╚██████╔╝   ██║   
+     ╚════╝  ╚═════╝ ╚══════╝   ╚═╝       ╚═╝  ╚═╝ ╚═════╝  ╚═════╝    ╚═╝   
+                                                                         
+
+          
+         
+usage 
+
+                   git clone https://github.com/TamilHackz/RootMe.git
+                
+                   cd RootMe 
+                
+                   chmod 777 rootme.sh
+                
+                   bash rootme.sh  
+                   
+ choose your type of install
+
+   1. Boot2Root
+   2. JustRoot
+   
+   
        
-        now it will automatically install all requirements and root your termux
-        wait for a while it will install
-        when it sucsessfully installed just restart your termux to become Root user or type root to become root user
+   now it will automatically install all requirements and root your termux
+   wait for a while it will install
+   when it sucsessfully installed just restart your termux to become Root user or type root to become root user
+   
+   
 
 use this tool for educational purpose only stay leagel
 
