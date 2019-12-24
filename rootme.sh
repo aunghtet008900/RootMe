@@ -25,7 +25,7 @@ echo "   1. Boot2Root    "
 echo "   2. JustRoot     "
 echo
 echo "Does it hard to choose just watch this video Before use"
-echo "Tamil     ( comming soon )                "
+echo "Tamil   https://youtu.be/s7tm_cDgQQg   "
 echo "English   ( comming soon )            "
 echo     
 echo "Version 1.1"
