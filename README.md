@@ -68,12 +68,15 @@ Tool created By Ajay
 
 
 Contact me :
-Instagram Id    :- tamilhackz_ 
-Telegram group  :- Tamilhackz
-Twitter         :- TamilHackz
+
+        Instagram Id    :- tamilhackz_ 
+        
+        Telegram group  :- Tamilhackz
+        
+        Twitter         :- TamilHackz
 
 
-youtube :- Tamil Hackz
-https://www.youtube.com/channel/UC4BpyO4AIcynKhBj4PLnvsA
+        youtube :- Tamil Hackz
+        https://www.youtube.com/channel/UC4BpyO4AIcynKhBj4PLnvsA
 
 
